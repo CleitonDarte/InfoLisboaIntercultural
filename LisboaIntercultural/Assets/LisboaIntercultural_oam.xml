@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" id="tag:adobe.com,2012-03:edge:oam:compid:EDGE-912191444" name="LisboaIntercultural" version="1">
+
+  <description type="text/html"><![CDATA[Widget Exported from Adobe Edge (V1.DW.Edge)]]></description>
+  <category name="Adobe Edge Animation"/>
+
+  <remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+
+  <icon src="icon.png" width="740" height="450" />
+
+  <require type="other" src="LisboaIntercultural.html" />
+  <require type="other" src="images/borderFTec.svg" />
+  <require type="other" src="images/comunidadeHome_Angola.svg" />
+  <require type="other" src="images/comunidadeHome_Brasil.svg" />
+  <require type="other" src="images/comunidadeHome_China.svg" />
+  <require type="other" src="images/comunidadeHome_Holanda.svg" />
+  <require type="other" src="images/comunidadeHome_Nepal.svg" />
+  <require type="other" src="images/comunidadeHome_ReinoUnido.svg" />
+  <require type="other" src="images/comunidadeOver_Angola.svg" />
+  <require type="other" src="images/comunidadeOver_Brasil.svg" />
+  <require type="other" src="images/comunidadeOver_China.svg" />
+  <require type="other" src="images/comunidadeOver_Holanda.svg" />
+  <require type="other" src="images/comunidadeOver_Nepal.svg" />
+  <require type="other" src="images/comunidadeOver_ReinoUnido.svg" />
+  <require type="other" src="images/comunidade_Angola.svg" />
+  <require type="other" src="images/comunidade_Brasil.svg" />
+  <require type="other" src="images/comunidade_China.svg" />
+  <require type="other" src="images/comunidade_Holanda.svg" />
+  <require type="other" src="images/comunidade_Nepal.svg" />
+  <require type="other" src="images/comunidade_ReinoUnido.svg" />
+  <require type="other" src="images/cruz.svg" />
+  <require type="other" src="images/etiquetaMapa.svg" />
+  <require type="other" src="images/graficoDeLinhas.svg" />
+  <require type="other" src="images/grafico_evolucao.svg" />
+  <require type="other" src="images/grafico_percent.svg" />
+  <require type="other" src="images/icon_comunidades.svg" />
+  <require type="other" src="images/icon_Estat.svg" />
+  <require type="other" src="images/icon_Info.svg" />
+  <require type="other" src="images/icon_pessoas.svg" />
+  <require type="other" src="images/Logo_LxInterCult.svg" />
+  <require type="other" src="images/mapaLisboa5.svg" />
+  <require type="other" src="images/marcador.svg" />
+  <require type="other" src="images/ref_angola.svg" />
+  <require type="other" src="images/ref_brasil.svg" />
+  <require type="other" src="images/ref_china.svg" />
+  <require type="other" src="images/ref_holanda.svg" />
+  <require type="other" src="images/ref_nepal.svg" />
+  <require type="other" src="images/ref_reinoUnido.svg" />
+  <require type="other" src="images/zoomBarra.svg" />
+
+  <require type="javascript" src="LisboaIntercultural_edge.js" />
+  <require type="javascript" src="edge_includes/edge.6.0.0.min.js" />
+  <require type="javascript" src="js/jquery-2.2.2.min.js" />
+  <require type="javascript" src="js/jquery-ui-1.12.0-rc.js" />
+
+  <require type="image" src="icon.png" />
+  <require type="image" src="images/Pessoas_BoWeterings.png" />
+  <require type="image" src="images/Pessoas_Marco.png" />
+  <require type="image" src="images/Pessoas_Michael.png" />
+  <require type="image" src="images/Pessoas_Narendra.png" />
+  <require type="image" src="images/Pessoas_Toscana.png" />
+  <require type="image" src="images/Pessoas_Yuying.png" />
+  <require type="image" src="images/Poster.png" />
+
+  <require type="folder" src="edge_includes" />
+  <require type="folder" src="images" />
+  <require type="folder" src="js" />
+
+
+  <content><![CDATA[
+    <div class="EDGE-912191444"></div>
+  ]]></content>
+   
+  <properties name="Properties">
+    <property name="default-width" defaultValue="740" hidden="true"/>
+    <property name="default-height" defaultValue="450" hidden="true"/>
+    <property name="resizable" defaultValue="false" hidden="true"/>				
+		<property name="centering" defaultValue="none" hidden="true"/>				
+		<property name="scaling" defaultValue="none" hidden="true"/>
+    <property name="html-page" defaultValue="LisboaIntercultural.html" hidden="true"/>
+  </properties>
+
+</widget>
